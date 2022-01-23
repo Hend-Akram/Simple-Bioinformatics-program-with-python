@@ -1,6 +1,6 @@
 # Simple-Bioinformatics-program-with-python
-It is a smale project that is splited to three windows 
-First window is about DNA (transcripe DNA sequence to RNA)
-Seconde window is about RNA (translat RNA sequence to protein sequence)
-The third one is not stablished right now 
-this project was reaten in python
+It is a small project that is split into three windows
+The first window is about DNA (transcribe DNA sequence to RNA)
+The second window is about RNA (translate RNA sequence to protein sequence)
+The third one is not established right now
+This project was created in python
